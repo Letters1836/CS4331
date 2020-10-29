@@ -1,0 +1,3 @@
+this is another test document within the:
+
+dir1 directory
